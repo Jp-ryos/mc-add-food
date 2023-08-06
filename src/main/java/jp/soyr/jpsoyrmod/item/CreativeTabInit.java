@@ -61,7 +61,7 @@ public class CreativeTabInit {
     }
 
     if (event.getTab() == EXAMPLE_TAB.get()) {
-      event.accept(Items.CROSSBOW);
+      event.accept(ItemInit.EXAMPLE_ITEM.get().getDefaultInstance());
     }
   }
 }

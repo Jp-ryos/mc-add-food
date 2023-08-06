@@ -1,4 +1,8 @@
 {
   "item.jpsoyrmod.amedama": "Amedama",
-  "itemGroup.amedata_tab": "Amedama Tab"
+  "itemGroup.amedata_tab": "Amedama Tab",
+  "block.jpsoyrmod.iou_ore": "Iou Ore",
+  "block.jpsoyrmod.deepslate_example_ore": "Deepstate Example Ore",
+  "block.jpsoyrmod.nether_example_ore": "Nether Example Ore",
+  "block.jpsoyrmod.end_example_ore": "End Example Ore"
 }

@@ -1,4 +1,8 @@
 {
   "item.jpsoyrmod.amedama": "飴玉",
-  "itemGroup.amedata_tab": "飴玉タブ"
+  "itemGroup.amedata_tab": "飴玉タブ",
+  "block.jpsoyrmod.iou_ore": "硫黄鉱石",
+  "block.jpsoyrmod.deepslate_example_ore": "ディープスレート鉱石",
+  "block.jpsoyrmod.nether_example_ore": "ネザー鉱石",
+  "block.jpsoyrmod.end_example_ore": "エンド鉱石"
 }
